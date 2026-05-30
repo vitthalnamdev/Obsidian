@@ -1,0 +1,7 @@
+1. [[Binary Exponention.]]
+2. [[Mutiply two large numbers , which are giving overflow in 64 bit integer]]
+3. [[Sieve of Eratosthenes]]
+4. [[Legendre's formula]]
+5. [[Lucas Theorem]]
+6. [[Segmented Tree usage]]
+7. [[Fermet little theorem]]

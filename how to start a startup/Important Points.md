@@ -1,0 +1,2 @@
+1.  Sometimes, you should start at a market which is small and get a monopoly there..... and expand eventually. There is a less competition. So, your chances of winning is more. So, people sometimes may think your idea is bad, because nobody is competing there.                                   <b> Seems , like a bad idea... while it is a good idea... </b>
+2. 

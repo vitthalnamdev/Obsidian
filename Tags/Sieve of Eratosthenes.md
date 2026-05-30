@@ -1,0 +1,2 @@
+1. Store the prime numbers in vector with bool type . Some thing like , if primes[i] == 1 . Then the number is Prime else it is composite .  This is the best way to do it , There are several more optimizations , like check for only odd values , because 2 is the only even prime else other even numbers are not prime . This will decrease the iterations in half.
+2.  [[Segmented Sieve]]
